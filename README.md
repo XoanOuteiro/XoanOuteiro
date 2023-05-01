@@ -6,7 +6,7 @@
 <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a>
+<a href="https://linktr.ee/xoanouteiro">
   <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree Badge"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=XoanOuteiro&style=flat-square&color=blue" alt=""/>
