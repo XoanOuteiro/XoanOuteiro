@@ -24,7 +24,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  ___
 
 ### :man_technologist: About Me :
+
+I am a Cross-Platform App Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+
+- :telescope: Im studying as a software developer and creating frontend and backend for cross-platform applications.
+
+- :seedling: Also studying Deep Learning and Ecosystem simulations.
+
+- :zap: I often solve problems on GeeksForGeeks and StackOverflow.
 </div>
