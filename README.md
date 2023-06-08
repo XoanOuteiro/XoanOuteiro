@@ -53,10 +53,5 @@ I am a Cross-Platform App Development student <img src="https://media.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XoanOuteiro&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
