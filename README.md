@@ -31,7 +31,7 @@ I am a Cross-Platform App Development student <img src="https://media.giphy.com/
 
 - :telescope: Im studying as a software developer and creating frontend and backend for cross-platform applications.
 
-- :seedling: Also studying Deep Learning and Ecosystem simulations.
+- :seedling: Also studying cybersecurity and penetration testing ethically.
 
 - :zap: I often solve problems on GeeksForGeeks and StackOverflow.
 
