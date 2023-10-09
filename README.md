@@ -1,45 +1,8 @@
-<div id="startArea">
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRkZmZlZjg1M2IxODIzZDQyNGIzZjU0NWY4YzViZDcyMDg1YmFiNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://linktr.ee/xoanouteiro">
-  <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree Badge"/>
-</a>
-  </br>
-<img src="https://komarev.com/ghpvc/?username=XoanOuteiro&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1 align="center">
-  Welcome!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-<div id="aboutmeArea">
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-### :man_technologist: About Me :
-
-I am a Cross-Platform App Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
-
-- :telescope: Im studying as a software developer and creating frontend and backend for cross-platform applications.
-
-- :seedling: Also studying cybersecurity and penetration testing ethically.
-
-- :zap: I often solve problems on GeeksForGeeks and StackOverflow.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech & Tools :
 <div>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -51,7 +14,8 @@ I am a Cross-Platform App Development student <img src="https://media.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Godot" alt="Godot" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="pyCharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="android-studio" width="40" height="40"/>&nbsp;
+  
 </div>
 
-
-</div>
