@@ -4,8 +4,8 @@
 public class User{
 
   private String pronouns = "He/Him";
-  private String[] languages = ["GLZ","ESP","EN"]; 
-  private String[] interests = ["Cybersecurity","GameDev","3DArt"];
+  private String[] languages = {"GLZ","ESP","EN"}; 
+  private String[] interests = {"Cybersecurity","GameDev","3DArt"};
 
   public User(){
 
