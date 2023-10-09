@@ -40,7 +40,7 @@ public class User{
 
 ---
 
-### :chart_with_upwards_trend:
+### :chart_with_upwards_trend: Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XoanOuteiro&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XoanOuteiro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
