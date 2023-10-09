@@ -37,3 +37,9 @@ public class User{
   
 </div>
 
+---
+
+### :chart_with_upwards_trend:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XoanOuteiro)](https://github.com/anuraghazra/github-readme-stats)
+
