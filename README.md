@@ -5,7 +5,8 @@ public class User{
 
   private String pronouns = "He/Him";
   private String[] languages = {"GLZ","ESP","EN"}; 
-  private String[] interests = {"Cybersecurity","GameDev","3DArt","Photography","UI/UX"};
+  private String[] interests = {"Cybersecurity","GameDev","Processing4","3DArt","Photography","UI/UX"};
+  private String[] currentlyLearning = {"Golang","BashScripting"};
 
   public User(){
 
