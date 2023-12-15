@@ -37,7 +37,5 @@ public class User{
 
 ---
 
-### :chart_with_upwards_trend: Stats:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XoanOuteiro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
