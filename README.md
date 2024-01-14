@@ -5,8 +5,8 @@ public class User{
 
   private String pronouns = "He/Him";
   private String[] languages = {"GLZ","ESP","EN"}; 
-  private String[] interests = {"Cybersecurity","GameDev","Processing4","3DArt","Photography","UI/UX"};
-  private String[] currentlyLearning = {"Golang","BashScripting"};
+  private String[] interests = {"Cybersecurity","PenTesting","Processing4","3DArt","Photography","UI/UX"};
+  private String[] currentlyLearning = {"Web Pentesting","Golang","BashScripting"};
 
   public User(){
 
@@ -32,7 +32,6 @@ public class User{
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Godot" alt="Godot" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="pyCharm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="android-studio" width="40" height="40"/>
-  
 </div>
 
 ---
