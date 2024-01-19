@@ -51,7 +51,7 @@ public class User{
 </div>
 
 ----
-### :lock:Cybersecurity:
+### :lock: Cybersecurity:
 
 #### Platforms:
 <div>
