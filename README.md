@@ -18,7 +18,7 @@ public class User{
 
 ---
 
-### :hammer_and_wrench: Tech & Tools :
+### :hammer_and_wrench: Tech & Tools:
 
 #### Programming Languages:
 <div>
