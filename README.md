@@ -51,7 +51,4 @@ public class User{
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square" title="Kali" alt="Kali"/>
 </div>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XoanOuteiro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
