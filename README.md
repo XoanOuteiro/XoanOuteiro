@@ -31,14 +31,25 @@ public class User{
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" title="MySQL"  alt="MySQL" />&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square" title="Kotlin" alt="Kotlin" />&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" title="C++" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square" title="rust" alt="rust" />&nbsp;
 </div>
 
 #### IDEs and Editors:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="pyCharm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="android-studio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/intellij/intellij-original.svg?plain=1" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat-square" title="PyCharm" alt="pyCharm" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat-square" title="AndroidStudio" alt="android-studio"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square" title="IntelliJ" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat-square" title="NetBeans" alt="NetBeans"/>
+  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat-square" title="Vim" alt="Vim"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" title="VisualStudioCode" alt="VisualStudioCode"/>
 <div>
+
+#### OS:
+<div>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square" title="Ubuntu" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat-square" title="Mint" alt="Mint"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square" title="Kali" alt="Kali"/>
+</div>
 
 ---
 
