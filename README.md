@@ -51,13 +51,17 @@ public class User{
 </div>
 
 ----
-### Cybersecurity:
+### :lock:Cybersecurity:
 
-#### Stack:
+#### Platforms:
 <div>
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=flat-square" title="hackthebox" alt="hackthebox"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=flat-square" title="tryhackme" alt="tryhackme"/>
   <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat-square" title="hackerone" alt="hackeron"/>
+</div>
+
+#### Tools and Resources:
+<div>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square" title="BashScripting" alt="BashScripting"/>
   <img src="https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=fff&style=flat-square" title="OWASP" alt="OWASP"/>
   <img src="https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=flat-square" title="Splunk" alt="Splunk"/>
