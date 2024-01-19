@@ -24,13 +24,13 @@ public class User{
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"  width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg?plain=1" title="GoLang" alt="GoLang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/kotlin/kotlin-original.svg?plain=1" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" title="HTML5" alt="HTML" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" title="Python" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square" title="GoLang" alt="GoLang"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" title="MySQL"  alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square" title="Kotlin" alt="Kotlin" />&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" title="C++" alt="C++" />&nbsp;
 </div>
 
 #### IDEs and Editors:
