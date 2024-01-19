@@ -22,7 +22,6 @@ public class User{
 
 #### Programming Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square"  title="CSS3" alt="CSS"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" title="HTML5" alt="HTML" />&nbsp;
