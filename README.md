@@ -55,7 +55,9 @@ public class User{
 
 #### Platforms:
 <div>
-  <script src="https://tryhackme.com/badge/2482815"></script>
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=flat-square" title="hackthebox" alt="hackthebox"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=flat-square" title="tryhackme" alt="tryhackme"/>
+  <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat-square" title="hackerone" alt="hackeron"/>
 </div>
 
 #### Tools and Resources:
