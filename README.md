@@ -72,5 +72,5 @@ public class User{
 ### Certs:
 
 <div>
-  <img src="https://www.credly.com/badges/f9ed7b53-8cee-4fc1-bc12-65e2b2ff6a84/public_url" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge"/>
+  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge"/>
 </div>
