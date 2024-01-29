@@ -69,7 +69,7 @@ public class User{
 
 ----
 
-### :heavy_check_mark: Certs:
+### :trophy: Certs & Badges:
 
 <div>
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge" height="150" width="150"/>
