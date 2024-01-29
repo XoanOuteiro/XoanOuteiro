@@ -66,3 +66,11 @@ public class User{
   <img src="https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=fff&style=flat-square" title="OWASP" alt="OWASP"/>
   <img src="https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=flat-square" title="Splunk" alt="Splunk"/>
 </div>
+
+----
+
+### Certs:
+
+<div>
+  <img src="https://www.credly.com/badges/f9ed7b53-8cee-4fc1-bc12-65e2b2ff6a84/public_url" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge"/>
+</div>
