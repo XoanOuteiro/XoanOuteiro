@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://cdn.dribbble.com/userupload/4995531/file/original-2e28c2c6661cc9e0ae3ed5b5594c7e90.gif" alt="WelcomeBanner by riri pixel" />
+  <img src="" alt="WelcomeBanner" />
 </div>
 
 
