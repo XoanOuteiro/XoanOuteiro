@@ -7,6 +7,8 @@
   <h4>I'm a Full Stack development student based in Galicia, Spain. My pronouns are He/Him and my biggest interests are cybersecurity and graphic programming. My main hobbies are analog photography and 3D art.</h4>
 </div>
 
+---
+
 <div align=center>
   <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/miniMoss.gif" alt="MidBanner" />
 </div>
@@ -42,6 +44,8 @@
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat-square" title="Mint" alt="Mint"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square" title="Kali" alt="Kali"/>
 </div>
+
+---
 
 <div align=center>
   <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/koi.gif" alt="LowBanner" />
