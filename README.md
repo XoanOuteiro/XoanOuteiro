@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://giphy.com/gifs/cat-kitty-kitten-3o6ZsZwsU65E0qcok8" alt="WelcomeBanner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hhajU2NjAzcmRvcGZieDAxZDQwd3Q2MDhsN296Z2ZhNHJoeGl2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif" alt="WelcomeBanner" />
 </div>
 
 
