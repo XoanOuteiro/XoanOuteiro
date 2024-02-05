@@ -1,7 +1,10 @@
 <div align=center>
-  <img src="" alt="WelcomeBanner" />
+  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/lookingglass.gif" alt="WelcomeBanner" />
 </div>
 
+<div align=center>
+  <h1>Welcome to my profile!</h1>
+</div>
 
 <div align=center>
   <h4 align=center></h4>
