@@ -18,9 +18,9 @@ public class User{
 
 ---
 
-<h1 align=center> :hammer_and_wrench: Tech & Tools: </h1>
+<h2 align=center> :hammer_and_wrench: Tech & Tools: </h2>
 
-<h2 align=center> Programming Languages: </h2>
+<h3 align=center> Programming Languages: </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square"  title="CSS3" alt="CSS"/>&nbsp;
@@ -33,7 +33,7 @@ public class User{
   <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square" title="rust" alt="rust" />&nbsp;
 </div>
 
-<h2 align=center> IDEs and Editors: </h2>
+<h3 align=center> IDEs and Editors: </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat-square" title="PyCharm" alt="pyCharm" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat-square" title="AndroidStudio" alt="android-studio"/>
@@ -43,7 +43,7 @@ public class User{
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" title="VisualStudioCode" alt="VisualStudioCode"/>
 <div>
 
-<h2 align=center> OS: </h2>
+<h3 align=center> OS: </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square" title="Ubuntu" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat-square" title="Mint" alt="Mint"/>
@@ -51,16 +51,16 @@ public class User{
 </div>
 
 ----
-<h1 align=center> :lock: Cybersecurity: </h1>
+<h2 align=center> :lock: Cybersecurity: </h2>
 
-<h2 align=center> Platforms: </h2>
+<h3 align=center> Platforms: </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=flat-square" title="hackthebox" alt="hackthebox"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=flat-square" title="tryhackme" alt="tryhackme"/>
   <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat-square" title="hackerone" alt="hackeron"/>
 </div>
 
-<h2 align=center> Tools and Resources: </h2>
+<h3 align=center> Tools and Resources: </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square" title="BashScripting" alt="BashScripting"/>
   <img src="https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=fff&style=flat-square" title="OWASP" alt="OWASP"/>
@@ -69,7 +69,7 @@ public class User{
 
 ----
 
-<h1 align=center> :trophy: Certs & Badges: </h1>
+<h2 align=center> :trophy: Certs & Badges: </h2>
 
 <div align="center">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge" height="150" width="150"/>
