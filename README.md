@@ -49,24 +49,7 @@ public class User{
 </div>
 
 
-<h2 align=center> :lock: Cybersecurity: </h2>
-
-<h3 align=center> Platforms: </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=flat-square" title="hackthebox" alt="hackthebox"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=flat-square" title="tryhackme" alt="tryhackme"/>
-  <img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=fff&style=flat-square" title="hackerone" alt="hackeron"/>
-</div>
-
-<h3 align=center> Tools and Resources: </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square" title="BashScripting" alt="BashScripting"/>
-  <img src="https://img.shields.io/badge/OWASP-000?logo=owasp&logoColor=fff&style=flat-square" title="OWASP" alt="OWASP"/>
-  <img src="https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=flat-square" title="Splunk" alt="Splunk"/>
-</div align="center">
-
-
-<h2 align=center> :trophy: Certs & Badges: </h2>
+<h2 align=center> :trophy: Cybersecurity Certs & Badges: </h2>
 
 <div align="center">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge" height="150" width="150"/>
