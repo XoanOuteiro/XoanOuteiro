@@ -1,20 +1,11 @@
+<div align=center>
+  <img src="https://giphy.com/embed/3o6ZsZwsU65E0qcok8" alt="WelcomeBanner" />
+</div>
 
-```java
 
-public class User{
-
-  private String pronouns = "He/Him";
-  private String[] languages = {"GLZ","ESP","EN"}; 
-  private String[] interests = {"Cybersecurity","PenTesting","Processing4","3DArt","Photography","UI/UX"};
-  private String[] currentlyLearning = {"Web Pentesting","Golang","BashScripting"};
-
-  public User(){
-
-  }
-
-}
-
-```
+<div align=center>
+  <h4 align=center></h4>
+</div>
 
 <h2 align=center> :hammer_and_wrench: Tech & Tools: </h2>
 
