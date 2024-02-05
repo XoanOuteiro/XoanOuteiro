@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/lookingglass.gif" alt="WelcomeBanner" />
+  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/lookingglass.gif" alt="WelcomeBanner"/>
 </div>
 
 <div align=center>
