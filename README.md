@@ -4,11 +4,11 @@
 
 <div align=center>
   <h1>Welcome to my profile!</h1>
-  <h3>I'm a Full Stack development student based in Galicia, Spain. My pronouns are He/Him and my biggest interests are cybersecurity and graphic programming. My main hobbies are analog photography and 3D art.</h3>
+  <h4>I'm a Full Stack development student based in Galicia, Spain. My pronouns are He/Him and my biggest interests are cybersecurity and graphic programming. My main hobbies are analog photography and 3D art.</h4>
 </div>
 
 <div align=center>
-  <h4 align=center></h4>
+  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/miniMoss.gif" alt="MidBanner" />
 </div>
 
 <h2 align=center> :hammer_and_wrench: Tech & Tools: </h2>
@@ -43,6 +43,9 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square" title="Kali" alt="Kali"/>
 </div>
 
+<div align=center>
+  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/koi.gif" alt="LowBanner" />
+</div>
 
 <h2 align=center> :trophy: Cybersecurity Certs & Badges: </h2>
 
@@ -54,4 +57,10 @@
 <div align="center">
   <img src="https://assets.tryhackme.com/img/badges/introtowebsecurity.svg" title="TryHackMe Intro to Web Hacking Badge" alt="THM Webhacking Badge" height="70" width="70"/>
   <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" title="TryHackMe Intro to Web PenTesting Badge" alt="THM PenTesting Basics Badge" height="70" width="70"/>
+</div>
+
+---
+
+<div align=center>
+  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/1041uuu_plants.gif" alt="EndBanner" />
 </div>
