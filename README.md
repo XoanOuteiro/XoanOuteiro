@@ -4,7 +4,7 @@
 
 <div align=center>
   <h1>Welcome to my profile!</h1>
-  <h4>I'm a Full Stack development student based in Galicia, Spain. My pronouns are He/Him and my biggest interests are cybersecurity and graphic programming. My main hobbies are analog photography and 3D art.</h4>
+  <h4>&nbsp;I'm a Full Stack development student based in Galicia, Spain. My pronouns are He/Him and my biggest interests are cybersecurity and graphic programming. My main hobbies are analog photography and 3D art. Im currently learning GoLang, SpringBoot, Web Pentesting and secure design.&nbsp;</h4>
 </div>
 
 ---
