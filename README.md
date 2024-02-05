@@ -7,7 +7,7 @@
   <h4>&nbsp;I'm a Full Stack development student based in Galicia, Spain. My pronouns are He/Him and my biggest interests are cybersecurity and graphic programming. My main hobbies are analog photography and 3D art. Im currently learning GoLang, SpringBoot, Web Pentesting and secure design.&nbsp;</h4>
 </div>
 
----
+<h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
 
 <div align=center>
   <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/miniMoss.gif" alt="MidBanner" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square" title="Kali" alt="Kali"/>
 </div>
 
----
+<h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
 
 <div align=center>
   <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/koi.gif" alt="LowBanner" />
@@ -63,8 +63,8 @@
   <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" title="TryHackMe Intro to Web PenTesting Badge" alt="THM PenTesting Basics Badge" height="70" width="70"/>
 </div>
 
----
+<h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
 
 <div align=center>
-  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/1041uuu_plants.gif" alt="EndBanner" />
+  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/shoes.gif" alt="EndBanner" />
 </div>
