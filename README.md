@@ -16,8 +16,6 @@ public class User{
 
 ```
 
----
-
 <h2 align=center> :hammer_and_wrench: Tech & Tools: </h2>
 
 <h3 align=center> Programming Languages: </h3>
@@ -50,7 +48,7 @@ public class User{
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square" title="Kali" alt="Kali"/>
 </div>
 
-----
+
 <h2 align=center> :lock: Cybersecurity: </h2>
 
 <h3 align=center> Platforms: </h3>
@@ -67,7 +65,6 @@ public class User{
   <img src="https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=flat-square" title="Splunk" alt="Splunk"/>
 </div align="center">
 
-----
 
 <h2 align=center> :trophy: Certs & Badges: </h2>
 
@@ -75,7 +72,6 @@ public class User{
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge" height="150" width="150"/>
 </div>
 
----
 
 <div align="center">
   <img src="https://assets.tryhackme.com/img/badges/introtowebsecurity.svg" title="TryHackMe Intro to Web Hacking Badge" alt="THM Webhacking Badge" height="70" width="70"/>
