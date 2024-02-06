@@ -63,6 +63,8 @@
   <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" title="TryHackMe Intro to Web PenTesting Badge" alt="THM PenTesting Basics Badge" height="70" width="70"/>
   <img src="https://tryhackme.com/img/badges/webbed.svg" title="TryHackMe Webbed Completion Badge" alt="THM Webbed Badge" height="70" width="70"/>
   <img src="https://tryhackme.com/img/badges/howthewebworks.svg" title="TryHackMe Website Basics Badge" alt="THM Web Basics Badge" height="70" width="70"/>
+  <br/>
+  <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" title="TryHackMe Mr.Robot Box Completion Badge" alt="THM Mr.Robot Box Badge" height="70" width="70"/>
 </div>
 
 <h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
