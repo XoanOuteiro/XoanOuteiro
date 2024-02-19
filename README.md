@@ -68,7 +68,7 @@
   <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" title="Hash Cracking Completion Badge" alt="THM HashCracker Badge" height="70" width="70"/>
   <br/>
 </div>
-  ![tryhackme stats](https://raw.githubusercontent.com/XoanOuteiro/XoanOuteiro/master/assets/thm_propic.png)
+  <item src="https://raw.githubusercontent.com/XoanOuteiro/XoanOuteiro/master/assets/thm_propic.png" alt="THM Badge" title="THM Badge"/>
 <h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
 
 <div align=center>
