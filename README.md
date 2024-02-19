@@ -67,9 +67,8 @@
   <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" title="TryHackMe Mr.Robot Box Completion Badge" alt="THM Mr.Robot Box Badge" height="70" width="70"/>
   <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" title="Hash Cracking Completion Badge" alt="THM HashCracker Badge" height="70" width="70"/>
   <br/>
-  ![tryhackme stats](https://raw.githubusercontent.com/XoanOuteiro/XoanOuteiro/master/assets/thm_propic.png)
 </div>
-
+  ![tryhackme stats](https://raw.githubusercontent.com/XoanOuteiro/XoanOuteiro/master/assets/thm_propic.png)
 <h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
 
 <div align=center>
