@@ -72,9 +72,16 @@
   <br/>
   <img src="https://raw.githubusercontent.com/XoanOuteiro/XoanOuteiro/master/assets/thm_propic.png" alt="TryHackMe Stats" href="https://tryhackme.com/p/XoanOuteiro"/>
 </div>
+
+  <h3>Bug Bounties and VDPs</h3>
+  <h4>Bugcrowd</h4>
+  <div>
+    <img src="https://bugcrowd.com/assets/level-1-JPYSX55K.digested.svg" alt="BugCrowd 1 valid bug badge" height="70" width="70"/>
+    <img src="https://bugcrowd.com/assets/level-1-PXV6KQIZ.digested.svg" alt="BugCrowd Shogun lvl1" height="70" width="70"/>
+  </div>
   
 <h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
 
 <div align=center>
-  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/shoes.gif" alt="EndBanner" />
+  <img src="https://github.com/XoanOuteiro/GIFS_forReadme/blob/main/banners/shoes.gif" alt="EndBanner"/>
 </div>
