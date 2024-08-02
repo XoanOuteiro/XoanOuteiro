@@ -3,9 +3,9 @@
 </div>
 
 <div align=center>
-  <h1>Welcome to my profile!</h1>
-  <h4>&nbsp;I'm a Full Stack developer (Android & Web) and Ethical Hacker based in Galicia, Spain. My pronouns are He/Him and my biggest interests are cybersecurity and graphic programming. My main hobbies are analog photography and 3D art. Im currently learning GoLang, Rust, Pentesting and secure design.&nbsp;</h4>
-  <h4>You can contact me at:</h4>
+  <h1>Yo!</h1>
+  <h4>&nbsp;I'm a Full Stack developer (Android & Web) and Cybersecurity Researcher.<br/>My pronouns are He/Him, I'm currently working on bug bounties and learning Rust&nbsp;</h4>
+  <h4>You can usually contact me at:</h4>
   <h4>xoanouteirosecurity@proton.me</h4>
 </div>
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square" title="Kotlin" alt="Kotlin" />&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" title="C++" alt="C++" />&nbsp;
   <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square" title="rust" alt="rust" />&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" title="Java" alt="Java"/>&nbsp;
 </div>
 
 <h3 align=center> IDEs and Editors: </h3>
@@ -45,6 +46,8 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square" title="Ubuntu" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=flat-square" title="Mint" alt="Mint"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square" title="Kali" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white" title="Manjaro" alt="Manjaro"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square" title="Arch" alt="Arch"/>
 </div>
 
 <h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
@@ -71,14 +74,18 @@
   <img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" title="Burp Suite Tutorial Completion Badge" alt="THM BurpSuite Badge" height="70" width="70"/>
   <img src="https://tryhackme.com/img/badges/metasploit.svg" title="Metasploit Tutorial Completion Badge" alt="THM Metasploit Badge" height="70" width="70"/>
   <br/>
+  <img src="https://tryhackme.com/img/badges/linux.svg" title="Linux Compentency Completion Badge" alt="THM Linux Badge" height="70" width="70"/>
+  <img src="https://tryhackme.com/img/badges/ohsint.svg" title="OSINT Challenges Completion Badge" alt="THM OhSint Badge" height="70" width="70"/>
+  <br/>
   <img src="https://raw.githubusercontent.com/XoanOuteiro/XoanOuteiro/master/assets/thm_propic.png" alt="TryHackMe Stats" href="https://tryhackme.com/p/XoanOuteiro"/>
+  
 </div>
 
   <h3>Bug Bounties and VDPs</h3>
   <h4>Bugcrowd</h4>
   <div>
-    <img src="https://bugcrowd.com/assets/level-1-JPYSX55K.digested.svg" alt="BugCrowd 1 valid bug badge" height="70" width="70"/>
-    <img src="https://bugcrowd.com/assets/level-1-PXV6KQIZ.digested.svg" alt="BugCrowd Shogun lvl1" height="70" width="70"/>
+    <img src="https://bugcrowd.com/assets/level-2-MVMSZORX.digested.svg" alt="BugCrowd 5 valid bugs badge" height="70" width="70"/>
+    <img src="https://bugcrowd.com/assets/level-2-YVUBYKIP.digested.svg" alt="BugCrowd Shogun lvl2" height="70" width="70"/>
   </div>
   
 <h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
