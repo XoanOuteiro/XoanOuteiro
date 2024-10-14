@@ -4,7 +4,7 @@
 
 <div align=center>
   <h1>Yo!</h1>
-  <h4>&nbsp;I'm a Full Stack developer (Android & Web) and Cybersecurity Researcher.<br/>My pronouns are He/Him, I'm currently working on bug bounties and learning Rust&nbsp;</h4>
+  <h4>&nbsp;I'm an Ethical Hackers and Full Stack Developer (Android/Web)).<br/>My pronouns are He/Him, I'm currently working on bug bounties and learning Rust&nbsp;</h4>
   <h4>You can usually contact me at:</h4>
   <h4>xoanouteirosecurity@proton.me</h4>
 </div>
