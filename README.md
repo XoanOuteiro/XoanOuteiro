@@ -49,8 +49,8 @@
 
 <div align="center">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" title="Coursera Google Cybersecurity Proffessional Certificate" alt="Certificate Badge" height="150" width="150"/>
+  <img src="https://templates.images.credential.net/16921890479543330419421893546260.png" title="eJPTv2 Certificate" alt="Certificate Badge" height="150" width="130"/>
 </div>
-
 
 <div align="center">
   <img src="https://assets.tryhackme.com/img/badges/introtowebsecurity.svg" title="TryHackMe Intro to Web Hacking Badge" alt="THM Webhacking Badge" height="70" width="70"/>
