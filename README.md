@@ -52,23 +52,6 @@
   <img src="https://templates.images.credential.net/16921890479543330419421893546260.png" title="eJPTv2 Certificate" alt="Certificate Badge" height="150" width="130"/>
 </div>
 
-<div align="center">
-  <img src="https://assets.tryhackme.com/img/badges/introtowebsecurity.svg" title="TryHackMe Intro to Web Hacking Badge" alt="THM Webhacking Badge" height="70" width="70"/>
-  <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" title="TryHackMe Intro to Web PenTesting Badge" alt="THM PenTesting Basics Badge" height="70" width="70"/>
-  <img src="https://tryhackme.com/img/badges/webbed.svg" title="TryHackMe Webbed Completion Badge" alt="THM Webbed Badge" height="70" width="70"/>
-  <img src="https://tryhackme.com/img/badges/howthewebworks.svg" title="TryHackMe Website Basics Badge" alt="THM Web Basics Badge" height="70" width="70"/>
-  <br/>
-  <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" title="TryHackMe Mr.Robot Box Completion Badge" alt="THM Mr.Robot Box Badge" height="70" width="70"/>
-  <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" title="Hash Cracking Completion Badge" alt="THM HashCracker Badge" height="70" width="70"/>
-  <img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" title="Burp Suite Tutorial Completion Badge" alt="THM BurpSuite Badge" height="70" width="70"/>
-  <img src="https://tryhackme.com/img/badges/metasploit.svg" title="Metasploit Tutorial Completion Badge" alt="THM Metasploit Badge" height="70" width="70"/>
-  <br/>
-  <img src="https://tryhackme.com/img/badges/linux.svg" title="Linux Compentency Completion Badge" alt="THM Linux Badge" height="70" width="70"/>
-  <img src="https://tryhackme.com/img/badges/ohsint.svg" title="OSINT Challenges Completion Badge" alt="THM OhSint Badge" height="70" width="70"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/XoanOuteiro/XoanOuteiro/master/assets/thm_propic.png" alt="TryHackMe Stats" href="https://tryhackme.com/p/XoanOuteiro"/>
-  
-</div>
 
   <h3>Bug Bounties and VDPs</h3>
   <h4>Bugcrowd</h4>
